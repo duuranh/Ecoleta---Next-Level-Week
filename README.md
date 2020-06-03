@@ -3,4 +3,4 @@ Projeto de Aprendizado da Next Level Week - Rocketseat
 
 <h2>Esse site irá auxiliar as pessoas a encontrar pontos de coleta de lixo de forma prática e eficiente.</h2>
 
-![image](https://github.com/euhenriquefranca/ecoleta/blob/master/assets/ecoleta.png)
+![image](https://github.com/duuranh/Ecoleta---Next-Level-Week/blob/master/Ecoleta.PNG)
